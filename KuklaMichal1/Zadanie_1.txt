@@ -1,0 +1,8 @@
+Celem pracy domowej jest sprawdzenie znajomości pakietów dplyr oraz tidyr.
+Do rozwiązania jest 12 zadań. Plik z treścią zadań jest dostępny tutaj.
+
+Poniższe zadania dotyczą zbioru danych o piosenkach dostępnego w pliku .csv. Opis kolumn.
+
+df <- read.csv("spotify-2023.csv")
+
+Rozwiązanie należy przesłać w postaci pliku .R z kodem do wygenerowania odpowiedzi oraz zakomentowaną odpowiedzią.

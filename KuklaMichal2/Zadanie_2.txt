@@ -1,0 +1,16 @@
+Celem pracy domowej jest sprawdzenie znajomości pakietu ggplot2 oraz tworzenia poprawnych wizualizacji. W ramach pracy domowej proszę o przygotowanie wizualizacji utworzonej z wykorzystaniem ggplot2.
+
+Praca domowa powinna być wykonana na podstawie wizualizacji dostępnej w prasie, telewizji lub internecie, opublikowanej w ostatnim czasie, tj. nie wcześniej niż 15.10.2023r.
+
+Rozwiązanie należy przesłać w postaci raportu w pliku .pdf lub .html.
+
+Raport powinien zawierać następujące elementy:
+
+wizualizację źródłową, która będzie poprawiana wraz z podaniem źródła i daty publikacji (1p) - warunek konieczny uzyskania pozostałych punktów
+krótkie uzasadnienie, jakie elementy wizualizacji wymagają poprawy - wystarczy 1-2 zdania (1p)
+utworzoną wizualizację oraz kod potrzebny do jej wygenerowania (3p)
+krótkie uzasadnienie, dlaczego przygotowany wykres jest lepszy od oryginalnego - wystarczy 1-2 zdania (1p)
+Uwaga:
+
+Prace niezawierające źródłowej wizualizacji nie będą oceniane.
+Prace poprawiające wizualizacje, które ukazały się przed 15.10.2023r. będą mogły otrzymać maksymalnie połowę liczby punktów przeznaczonych za to zadanie.

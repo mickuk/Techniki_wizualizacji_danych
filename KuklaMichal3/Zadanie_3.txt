@@ -1,0 +1,11 @@
+Celem pracy domowej jest przygotowanie wizualizacji w formie mapy tematycznej. Możliwe jest wykorzystanie zarówno narzędzi dla języka R (w tym pakietów poznanych na zajęciach), jak i bibliotek dostępnych w Pythonie.
+
+Tematyka tworzonej mapy może być dowolna, ale wizualizacja powinna przekazywać sensowne informacje, bazować na rzeczywistych (nie wygenerowanych sztucznie) danych.
+
+Na kompletne rozwiązanie składa się zarówno stworzona grafika, jak i kod służący do jej zreprodukowania. Kompletne rozwiązanie powinno więc zawierać mapę w formacie .pdf, .png, .jpg lub .html (w przypadku interaktywności) oraz kod źródłowy (mogą to być skrypty .R, .py i notatniki .ipynb, .Rmd).
+
+Na ocenę (max. 6 punktów) składają się:
+
+1 p. za sensowność wizualizacji, wybór danych (np. mapa nie powinna przedstawiać kartogramu z tylko jednym pokolorowanym wybranym arbitralnie państwem/regionem);
+4 p. za poprawność przygotowanej mapy (odpowiedni dobór metody wizualizacji, czytelność, czy mapa jest zrozumiała dla odbiorcy, czy nie zakłamuje rzeczywistości, czy obecne są wszystkie niezbędne elementy);
+1 p. za estetykę (atrakcyjność wizualizacji, dobór kolorów).

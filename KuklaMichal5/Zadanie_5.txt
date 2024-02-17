@@ -1,0 +1,14 @@
+🎄🎄 Choinki to coroczna tradycja na Technikach Wizualizacji Danych. 🎄🎄
+
+W ramach pracy domowej należy wykonać statyczną lub interaktywną choinkę z użyciem bibliotek do wizualizacji danych z R/Python lub Java Script. Wcześniej należy wygenerować odpowiedni (pomysłowy) zbiór danych.
+
+Drzewka z poprzednich lat można obejrzeć tutaj.
+
+W folderze /homeworks/hw5 znajduje się plik hw5.R, w którym można znaleźć przykłady kodu pozwalające na tworzenie gifów oraz inne ciekawe pakiety do wizualizacji danych.
+
+Choinka jest warta 6 punktów.
+
+Rozwiązanie powinno zawierać:
+
+kod do wygenerowania choinki,
+plik z wygenerowanym drzewkiem w .pdf, .png, .jpg, .gif lub .html jeśli jest interaktywne.

@@ -1,0 +1,12 @@
+Celem pracy domowej jest sprawdzenie umiejętności przygotowywania interaktywnych wizualizacji z pakietem plotly.
+
+Praca domowa powinna być wykonana na podstawie wizualizacji dostępnej w prasie, telewizji lub internecie (czas opublikowania dowolny). Wykres należy odpowiednio zmodyfikować aby spełniał kryteria poprawnej wizualizacji danych. Przygotowany wykres musi być interaktywny lub/i animowany.
+
+Rozwiązanie można przygotować w R/Python, powinno zawierać wizualizację oraz kod. Praca domowa powinna być plikiem w formacie R/Rmd/ipynb/py (oraz dodatkowo HTML jeżeli jest taka możliwość).
+
+Rozwiązanie powinno zawierać następujące elementy:
+
+wizualizację źródłową, która będzie poprawiana wraz z podaniem źródła (1p) - warunek konieczny uzyskania pozostałych punktów
+krótkie uzasadnienie, jakie elementy wizualizacji wymagają poprawy - wystarczy 1-2 zdania (1p)
+utworzoną wizualizację oraz kod potrzebny do jej wygenerowania (3p)
+krótkie uzasadnienie, dlaczego przygotowany wykres jest lepszy od oryginalnego - wystarczy 1-2 zdania (1p)

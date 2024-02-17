@@ -1,0 +1,15 @@
+Celem pracy domowej jest sprawdzenie umiejętności przygotowywania wizualizacji grafu. Możliwe jest wykorzystanie zarówno bibliotek dostępnych w Pythonie (w tym pakietu networkx omawianego na Lab 14), jak i pakietów dla języka R.
+
+Tematyka wizualizowanego grafu może być dowolna, ale musi zawierać on przynajmniej N=25 wierzchołków.
+
+Ocena
+Na ocenę (max. 6 punktów) składają się:
+
+3 p. za poziom skomplikowania zwizualizowanego grafu/sieci, w tym:
+1.5 p za:
+a) wizualizację rzeczywistej sieci (np. społecznościowej, interakcji pomiędzy białkami, transportowej, telekomunikacyjnej) lub
+b) wizualizację wygenerowanego grafu syntetycznego z krótkim wyjaśnieniem, czemu jego zwizualizowanie było trudne (np. bardzo duża liczba wierzchołków N>=500),
+1.5 p. za wizualizację z wykorzystaniem mapowania przynajmniej jednej zmiennej na szerokość krawędzi, wielkość wierzchołków lub kolor krawędzi/wierzchołków;
+3 p. za poprawność przygotowanej wizualizacji (czytelność, zrozumiałość dla odbiorcy, obecność objaśnień, ewentualnej legendy).
+Szczegóły techniczne
+Na kompletne rozwiązanie składa się zarówno stworzona grafika, jak i kod służący do jej zreprodukowania. Kompletne rozwiązanie powinno więc zawierać mapę w formacie .pdf, .png, .jpg lub .html (w przypadku interaktywności) oraz kod źródłowy (mogą to być skrypty .R, .py i notatniki .ipynb, .Rmd).
